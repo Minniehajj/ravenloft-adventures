@@ -19,7 +19,7 @@ Wherever there is a power vacuum, a cursed ritual, or a fragile political allian
 
 ## 🕯 Notable Involvement
 
-- **Verbrek**: Benedict's agents were spotted near **Silverclaw Peak**, attempting to redirect or sabotage the [[Blood Moon Ritual]] for unknown reasons. He is believed to have been monitoring [[Damien Timothy]]'s rise and may have tampered with sacred lycanthropic rites tied to the [[Lady of the Hunt]].
+- **Verbrek**: Benedict's agents were spotted near **Silverclaw Peak**, attempting to redirect or sabotage the [[Blood Moon Ritual]] for unknown reasons. He is believed to have been monitoring [[Damien Timothy]]'s rise and may have tampered with sacred lycanthropic rites tied to [[The Lady of the Hunt]]
   
 - **Borça**: During the downfall of [[Ivan Dilssnya]], certain noble families received anonymous letters advising cooperation with [[Ivana Boritsi]]. These letters contained knowledge that should not have been known—and their contents vanished in flame once read.
 
