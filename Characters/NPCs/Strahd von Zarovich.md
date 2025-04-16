@@ -1,6 +1,5 @@
 **Former Title**: Dreadlord of [[Barovia]]  
-**Race**: Vampire (Human Origin)  
-**Class**: Fighter / Necromancer (formerly)  
+**Race**: Vampire (Human Origin) 
 **Status**: Defeated by the original heroes of Barovia  
 **Final Fate**: Slain at Castle Ravenloft by [[Issei Reinhardt]], [[Kastia]], [[Cora]], [[Po]], and [[Tal]]  
 **Legacy**: Haunting memory and corrupted history  
