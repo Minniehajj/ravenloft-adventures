@@ -100,7 +100,7 @@ The locket contains a very detailed sketch of a man and a woman in portrait, and
 We then ask the corpse of the paladin:
 
 - Q: What is your name
-- A: Sir Drog de Montreval du Leonas
+- A: [[Sir Drog de Montreval du Leonas]]
 - Q: Who sent you here?
 - A: Kara Drakov
 - Q: Are there any other threats here besides the creature you killed with your last breath?
