@@ -12,7 +12,7 @@ Falkovnia’s realm is overcast during the day, with no sun, and the moon is vis
 
 Patrina seems to know a bit about us and our group, she has veiled knowledge about our existing adventures.
 
-The Lamordian contingent goes out for the evening, so Patrina invites the rest of us to dinner.
+The [[Lamordia]] contingent goes out for the evening, so Patrina invites the rest of us to dinner.
 
 The magical types are looked down upon in Falkovnia, but Patrina vows to fix that.
 
